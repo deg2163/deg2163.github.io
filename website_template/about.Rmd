@@ -2,21 +2,22 @@
 title: "About Me"
 ---
 
+<img src ="images/diana.jpg" style="width:50%">
+
 ### Education
 
 
 **Graduate Education**: Columbia University Mailman School of Public Health (Master of Public Health) 
-Department: Sociomedical Sciences 
-Certificate: Epidemiology of Chronic Disease 
+_Department_: Sociomedical Sciences 
+_Certificate_: Epidemiology of Chronic Disease 
 
 **Undergraduate Education**: University of California, Los Angeles - UCLA (Bachelor of Science)
-Major: Psychobiology
-Minor: Public Health 
+_Major_: Psychobiology
+_Minor_: Public Health 
 
 ## Professional Experience 
 
-
 ## Skills 
 
-<img src ="images/diana.jpg" style="width:50%">
+
 
