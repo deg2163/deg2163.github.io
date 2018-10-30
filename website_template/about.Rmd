@@ -1,9 +1,26 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-### About this site
+### Education
 
 Sometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. 
 
 If this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.
+
+**Graduate Education**: Columbia University Mailman School of Public Health (Master of Public Health) 
+Department: Sociomedical Sciences 
+Certificate: Epidemiology of Chronic Disease 
+
+**Undergraduate Education**: University of California, Los Angeles - UCLA (Bachelor of Science)
+Major: Psychobiology 
+Minor: Public Health 
+
+## Professional Experience 
+
+
+## Skills 
+<body>
+
+<img src = "./images/diana.jpg" style = "width:50%" >
+
