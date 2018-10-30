@@ -6,8 +6,10 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<deg2163@cumc.columbia.edu>
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: http://github.com/deg2163.github.io.git/ 
 output:
   html_document
+  
+  <img src="images/diana.png" style="width:75%">
