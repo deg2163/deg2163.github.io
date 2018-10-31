@@ -1,5 +1,5 @@
 ---
-title: "Dashboard Template
+title: "Untitled"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
