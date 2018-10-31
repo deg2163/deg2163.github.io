@@ -1,0 +1,7 @@
+---
+title: "Plotly"
+---
+
+This page shows an example of plotly plots. 
+
+
