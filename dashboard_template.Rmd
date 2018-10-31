@@ -1,11 +1,10 @@
 ---
-title: "Untitled"
+title: "Dashboard"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
     vertical_layout: fill
 ---
-
 
 ```{r setup, include=FALSE}
 library(tidyverse)
@@ -13,8 +12,6 @@ library(viridis)
 library(p8105.datasets)
 library(flexdashboard)
 library(plotly)
-
-rmarkdown::render("dashboard_template.Rmd", output_format = "flex_dashboard")
 ```
 
 ```{r}
